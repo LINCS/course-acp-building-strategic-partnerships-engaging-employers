@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="8979" modulename="h5pactivity" contextid="57213">
+  <h5pactivity id="3">
+    <name>Learning Check 1</name>
+    <timecreated>1620646488</timecreated>
+    <timemodified>1649103136</timemodified>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;Now that you are midway through this course, you will have an opportunity to gauge and reinforce what you’ve learned. Once finished, select the link titled "Unit 3: Building and Sustaining Employer Partnerships" at the bottom to move on.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <grade>100</grade>
+    <displayoptions>15</displayoptions>
+    <enabletracking>1</enabletracking>
+    <grademethod>1</grademethod>
+    <reviewmode>1</reviewmode>
+    <attempts>
+      <attempt id="12">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>13418</userid>
+        <timecreated>1649892584</timecreated>
+        <timemodified>1649892584</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>48</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="80">
+            <attemptid>12</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1649892584</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>48</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="81">
+            <attemptid>12</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1649892584</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["1[,]2[,]3[,]0"]</correctpattern>
+            <response>0[,]3[,]2[,]1</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}},{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}},{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}},{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>48</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="82">
+            <attemptid>12</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1649892584</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["0[,]1[,]3[,]2"]</correctpattern>
+            <response>0[,]1[,]3[,]2</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}},{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}},{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>28</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="83">
+            <attemptid>12</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1649892584</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["1[,]0[,]3"]</correctpattern>
+            <response>3[,]0[,]1</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}},{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}},{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>15</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="17">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>26887</userid>
+        <timecreated>1650151051</timecreated>
+        <timemodified>1650151051</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>127</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="100">
+            <attemptid>17</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650151051</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>127</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="101">
+            <attemptid>17</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1650151051</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["3[,]1[,]0"]</correctpattern>
+            <response>1[,]0[,]3</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}},{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}},{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>127</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="102">
+            <attemptid>17</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1650151051</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["3[,]2[,]1[,]0"]</correctpattern>
+            <response>3[,]2[,]1[,]0</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}},{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}},{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}},{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>42</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="103">
+            <attemptid>17</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1650151051</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["0[,]1[,]2[,]3"]</correctpattern>
+            <response>0[,]1[,]2[,]3</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}},{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}},{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}},{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>10</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="50">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>28238</userid>
+        <timecreated>1651072792</timecreated>
+        <timemodified>1651072792</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>178</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="298">
+            <attemptid>50</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1651072792</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>178</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="299">
+            <attemptid>50</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1651072792</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["2[,]1[,]3[,]0"]</correctpattern>
+            <response>2[,]1[,]3[,]0</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}},{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}},{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}},{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>178</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="300">
+            <attemptid>50</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1651072792</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["0[,]1[,]3"]</correctpattern>
+            <response>3[,]0[,]1</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}},{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}},{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>98</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="301">
+            <attemptid>50</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1651072792</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["2[,]0[,]1[,]3"]</correctpattern>
+            <response>2[,]0[,]1[,]3</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}},{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}},{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>51</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="73">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>28271</userid>
+        <timecreated>1651844330</timecreated>
+        <timemodified>1651844330</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>149</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="442">
+            <attemptid>73</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1651844330</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>149</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="443">
+            <attemptid>73</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1651844330</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["0[,]1[,]2[,]3"]</correctpattern>
+            <response>1[,]2[,]3[,]0</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}},{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}},{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>149</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="444">
+            <attemptid>73</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1651844330</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["3[,]1[,]0[,]2"]</correctpattern>
+            <response>3[,]1[,]0[,]2</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}},{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}},{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}},{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>65</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="445">
+            <attemptid>73</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1651844330</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["3[,]1[,]0"]</correctpattern>
+            <response>3[,]1[,]0</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}},{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}},{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>19</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="78">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>28288</userid>
+        <timecreated>1651863208</timecreated>
+        <timemodified>1651863208</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>96</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="469">
+            <attemptid>78</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1651863208</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>96</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="470">
+            <attemptid>78</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1651863208</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["2[,]1[,]0[,]3"]</correctpattern>
+            <response>2[,]1[,]0[,]3</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}},{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}},{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>96</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="471">
+            <attemptid>78</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1651863208</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["1[,]0[,]3"]</correctpattern>
+            <response>1[,]0[,]3</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}},{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}},{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>38</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="472">
+            <attemptid>78</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1651863208</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["1[,]3[,]2[,]0"]</correctpattern>
+            <response>1[,]3[,]2[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}},{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}},{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}},{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>28</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="80">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>27818</userid>
+        <timecreated>1651956034</timecreated>
+        <timemodified>1651956034</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>132</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="477">
+            <attemptid>80</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1651956034</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>132</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="478">
+            <attemptid>80</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1651956034</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["1[,]3[,]2[,]0"]</correctpattern>
+            <response>2[,]0[,]1[,]3</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}},{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}},{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>132</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="479">
+            <attemptid>80</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1651956034</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["3[,]1[,]0"]</correctpattern>
+            <response>0[,]1[,]3</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}},{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}},{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>107</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="480">
+            <attemptid>80</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1651956034</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["0[,]3[,]1[,]2"]</correctpattern>
+            <response>0[,]3[,]1[,]2</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}},{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}},{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}},{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>62</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="82">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>28311</userid>
+        <timecreated>1652116933</timecreated>
+        <timemodified>1652116933</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>133</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="485">
+            <attemptid>82</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652116933</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>133</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="486">
+            <attemptid>82</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1652116933</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["2[,]1[,]0[,]3"]</correctpattern>
+            <response>1[,]2[,]0[,]3</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}},{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}},{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>133</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="487">
+            <attemptid>82</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1652116933</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["3[,]0[,]1"]</correctpattern>
+            <response>3[,]0[,]1</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}},{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}},{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}},{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>54</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="488">
+            <attemptid>82</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1652116933</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["1[,]3[,]0[,]2"]</correctpattern>
+            <response>2[,]3[,]1[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}},{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}},{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}},{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>34</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="89">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>18918</userid>
+        <timecreated>1652137264</timecreated>
+        <timemodified>1652137265</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>92</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="518">
+            <attemptid>89</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652137264</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>92</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="519">
+            <attemptid>89</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1652137265</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["0[,]1[,]3[,]2"]</correctpattern>
+            <response>0[,]1[,]3[,]2</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}},{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}},{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}},{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>92</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="520">
+            <attemptid>89</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1652137265</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["1[,]3[,]0"]</correctpattern>
+            <response>1[,]3[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}},{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}},{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>56</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="521">
+            <attemptid>89</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1652137265</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["2[,]3[,]0[,]1"]</correctpattern>
+            <response>2[,]3[,]0[,]1</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}},{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}},{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>34</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="95">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>474</userid>
+        <timecreated>1652203849</timecreated>
+        <timemodified>1652203849</timemodified>
+        <attempt>1</attempt>
+        <rawscore>2</rawscore>
+        <maxscore>3</maxscore>
+        <duration>83</duration>
+        <completion>1</completion>
+        <success>0</success>
+        <scaled>0.66667</scaled>
+        <results>
+          <result id="556">
+            <attemptid>95</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652203849</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>2</rawscore>
+            <maxscore>3</maxscore>
+            <duration>83</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="557">
+            <attemptid>95</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1652203849</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["1[,]0[,]3[,]2"]</correctpattern>
+            <response>1[,]2[,]3[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}},{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}},{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>83</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="558">
+            <attemptid>95</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1652203849</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["1[,]3[,]0"]</correctpattern>
+            <response>3[,]1</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}},{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}},{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>31</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="559">
+            <attemptid>95</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1652203849</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["2[,]1[,]3[,]0"]</correctpattern>
+            <response>2[,]3[,]0[,]1</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}},{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}},{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}},{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>17</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="135">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>26631</userid>
+        <timecreated>1652717242</timecreated>
+        <timemodified>1652717242</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>169</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="765">
+            <attemptid>135</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652717242</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>169</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="766">
+            <attemptid>135</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1652717242</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["0[,]1[,]3"]</correctpattern>
+            <response>0[,]1[,]3</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}},{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}},{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>169</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="767">
+            <attemptid>135</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1652717242</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["2[,]3[,]0[,]1"]</correctpattern>
+            <response>2[,]3[,]0[,]1</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}},{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}},{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>114</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="768">
+            <attemptid>135</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1652717242</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["0[,]3[,]2[,]1"]</correctpattern>
+            <response>0[,]3[,]2[,]1</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}},{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}},{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}},{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>65</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="138">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>27818</userid>
+        <timecreated>1652727514</timecreated>
+        <timemodified>1652727514</timemodified>
+        <attempt>2</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>724</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="777">
+            <attemptid>138</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652727514</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>724</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="778">
+            <attemptid>138</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1652727514</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["1[,]0[,]3"]</correctpattern>
+            <response>1[,]0[,]3</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}},{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}},{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>724</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="779">
+            <attemptid>138</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1652727514</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["2[,]3[,]1[,]0"]</correctpattern>
+            <response>2[,]3[,]1[,]0</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}},{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}},{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>639</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="780">
+            <attemptid>138</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1652727514</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["0[,]1[,]2[,]3"]</correctpattern>
+            <response>0[,]1[,]2[,]3</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}},{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}},{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}},{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>38</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="140">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>28338</userid>
+        <timecreated>1652752957</timecreated>
+        <timemodified>1652752957</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>432</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="785">
+            <attemptid>140</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652752957</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>432</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="786">
+            <attemptid>140</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1652752957</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["0[,]1[,]3"]</correctpattern>
+            <response>1[,]3[,]0</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}},{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}},{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>432</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="787">
+            <attemptid>140</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1652752957</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["2[,]1[,]0[,]3"]</correctpattern>
+            <response>2[,]1[,]0[,]3</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}},{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}},{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>165</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="788">
+            <attemptid>140</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1652752957</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["2[,]1[,]3[,]0"]</correctpattern>
+            <response>3[,]0[,]2[,]1</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}},{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}},{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}},{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>71</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="151">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>28338</userid>
+        <timecreated>1652835677</timecreated>
+        <timemodified>1652835677</timemodified>
+        <attempt>2</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>429</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="850">
+            <attemptid>151</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652835677</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>429</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="851">
+            <attemptid>151</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1652835677</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["1[,]0[,]3"]</correctpattern>
+            <response>1[,]0[,]3</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}},{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}},{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>429</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="852">
+            <attemptid>151</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1652835677</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["0[,]3[,]2[,]1"]</correctpattern>
+            <response>0[,]3[,]2[,]1</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}},{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}},{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>255</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="853">
+            <attemptid>151</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1652835677</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["0[,]3[,]2[,]1"]</correctpattern>
+            <response>0[,]3[,]2[,]1</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}},{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}},{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}},{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>106</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="158">
+        <h5pactivityid>3</h5pactivityid>
+        <userid>28400</userid>
+        <timecreated>1652892637</timecreated>
+        <timemodified>1652892637</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>374</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="906">
+            <attemptid>158</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652892637</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>374</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="907">
+            <attemptid>158</attemptid>
+            <subcontent>7ae7e2c0-cf40-4d67-8de2-99e8ae22e165</subcontent>
+            <timecreated>1652892637</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The value proposition that adult education and the design of the delivery of career pathways bring to various partnerships may serve to:
+</description>
+            <correctpattern>["0[,]3[,]1[,]2"]</correctpattern>
+            <response>0[,]3[,]1[,]2</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Clarify roles of the various partners\n"}},{"id":"3","description":{"en-US":"Help leaders and their team reflect on their value in the ecosystem and sharpen ways to tell the story\n"}},{"id":"1","description":{"en-US":"Enhance the opportunities for program delivery and student success working with a broad ecosystem of partners\n"}},{"id":"2","description":{"en-US":"Show that various partners may value different elements and that presenting what is most important is essential\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"7ae7e2c0-cf40-4d67-8de2-99e8ae22e165"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>374</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="908">
+            <attemptid>158</attemptid>
+            <subcontent>87768c26-e80d-424e-9de5-4e8b77fa9cde</subcontent>
+            <timecreated>1652892637</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Why are mapping and building an ecosystem of strategic partnerships important?
+</description>
+            <correctpattern>["1[,]0[,]3"]</correctpattern>
+            <response>1[,]0[,]3</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"The interrelatedness of partnerships (such as those between education, industry, community service, students, and colleges) can be holistically viewed.\n"}},{"id":"0","description":{"en-US":"They show the level of engagement of core partners.\n"}},{"id":"2","description":{"en-US":"The activity is designed to leave some partners out.\n"}},{"id":"3","description":{"en-US":"The mapped ecosystem of partnerships can help identify gaps where partners are needed to carry out particular roles or functions.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"87768c26-e80d-424e-9de5-4e8b77fa9cde"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>71</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="909">
+            <attemptid>158</attemptid>
+            <subcontent>4174b1ba-e1d8-49fd-a6e8-8db746f7cba4</subcontent>
+            <timecreated>1652892637</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which drivers below are influencing the development and delivery of adult career pathways, necessitating strong leadership and strategic partnerships:
+</description>
+            <correctpattern>["3[,]2[,]0[,]1"]</correctpattern>
+            <response>3[,]2[,]0[,]1</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"A polarized labor market is leaving more and more people behind, creating urgency for more effective partnerships. \n"}},{"id":"2","description":{"en-US":"The rapid pace of advanced technologies is impacting the need for a higher skilled workforce and collaboration with employers.\n"}},{"id":"0","description":{"en-US":"ACP creates economic mobility for students.\n"}},{"id":"1","description":{"en-US":"Students are demanding workforce-related skill building.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":7,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"4174b1ba-e1d8-49fd-a6e8-8db746f7cba4"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>43</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+    </attempts>
+  </h5pactivity>
+</activity>

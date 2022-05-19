@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2009" moduleid="8984" modulename="label" contextid="57218">
+  <label id="2009">
+    <name>Course EvaluationPlease&amp;nbsp;follow&amp;nbsp;the link ...</name>
+    <intro>&lt;h3 style="text-align: left;"&gt;&lt;strong&gt;Course Evaluation&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;&lt;span style="font-size: 1.7rem;"&gt;Please&amp;nbsp;follow&amp;nbsp;the link below to provide feedback on the course&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt;.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1624475236</timemodified>
+  </label>
+</activity>

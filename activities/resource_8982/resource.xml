@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="200" moduleid="8982" modulename="resource" contextid="57216">
+  <resource id="200">
+    <name>Unit 5: Completing Capstone Activities and Concluding the Course</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;The default view opens the unit in&amp;nbsp;this&amp;nbsp;browser window.&amp;nbsp;Alternate viewing option:&amp;nbsp;&lt;a href="https://courses.lincs.ed.gov/pluginfile.php/57216/mod_resource/content/10/content/index.html" target="_blank"&gt;Open the unit in a new browser window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>13</revision>
+    <timemodified>1649198264</timemodified>
+  </resource>
+</activity>

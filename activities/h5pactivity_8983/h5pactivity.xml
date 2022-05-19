@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="4" moduleid="8983" modulename="h5pactivity" contextid="57217">
+  <h5pactivity id="4">
+    <name>Final Learning Check</name>
+    <timecreated>1620646488</timecreated>
+    <timemodified>1649092572</timemodified>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;Complete the final learning check, which covers Units 3-5. Once finished, select the link titled "Course Evaluation" at the bottom of the screen to move on.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <grade>100</grade>
+    <displayoptions>15</displayoptions>
+    <enabletracking>1</enabletracking>
+    <grademethod>1</grademethod>
+    <reviewmode>1</reviewmode>
+    <attempts>
+      <attempt id="10">
+        <h5pactivityid>4</h5pactivityid>
+        <userid>13418</userid>
+        <timecreated>1649890480</timecreated>
+        <timemodified>1649890480</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>163</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="65">
+            <attemptid>10</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1649890480</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>163</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="66">
+            <attemptid>10</attemptid>
+            <subcontent>01d53c38-f8b2-4637-a791-78b4024d9d6d</subcontent>
+            <timecreated>1649890480</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which of the following benefits can result from building mutually beneficial partnerships with employers?
+</description>
+            <correctpattern>["2[,]3[,]1[,]0"]</correctpattern>
+            <response>2[,]3[,]1[,]0</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Work-based learning opportunities\n"}},{"id":"3","description":{"en-US":"Hiring needs\n"}},{"id":"1","description":{"en-US":"Career awareness activities\n"}},{"id":"0","description":{"en-US":"Workplace relevant curriculum\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"01d53c38-f8b2-4637-a791-78b4024d9d6d"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>163</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="67">
+            <attemptid>10</attemptid>
+            <subcontent>6487e6c7-8af7-4648-b088-4a7c953828d2</subcontent>
+            <timecreated>1649890480</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>In the video on the Future of Work, which of the elements below were highlighted?
+</description>
+            <correctpattern>["0[,]2"]</correctpattern>
+            <response>0[,]2</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Automation and Artificial Intelligence (AI) are impacting every sector in the economy, from agriculture to construction.\n"}},{"id":"2","description":{"en-US":"Adult education has an important role in developing students\u2019 basic skills, workforce preparation, and growth mindset. \n"}},{"id":"1","description":{"en-US":"The acceleration of different skills and competencies means partnerships with employers are optional. \n"}},{"id":"3","description":{"en-US":"Adult career pathways will not be relevant in the future of work \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"6487e6c7-8af7-4648-b088-4a7c953828d2"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>127</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="68">
+            <attemptid>10</attemptid>
+            <subcontent>45868381-6957-4418-b238-0683edda7acb</subcontent>
+            <timecreated>1649890480</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The following partnership strategies were common across the four exemplary models (Tyson, Kansas, PluggedInVA, District 1199C Training &amp; Upgrading Fund):
+(Check all that apply): 
+</description>
+            <correctpattern>["1[,]3[,]2[,]0"]</correctpattern>
+            <response>1[,]3[,]2[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Clear working relationships between employers, higher education partners, and adult education \n"}},{"id":"3","description":{"en-US":"\nBoth students and employers at the center of each and every pathways model \n\n"}},{"id":"2","description":{"en-US":"Public\u2013private financial support for students to earn industry-recognized credentials \n"}},{"id":"0","description":{"en-US":"Incentives for employers to engage \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"45868381-6957-4418-b238-0683edda7acb"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>98</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="13">
+        <h5pactivityid>4</h5pactivityid>
+        <userid>13418</userid>
+        <timecreated>1649893620</timecreated>
+        <timemodified>1649893620</timemodified>
+        <attempt>2</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>71</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="84">
+            <attemptid>13</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1649893620</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>71</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="85">
+            <attemptid>13</attemptid>
+            <subcontent>01d53c38-f8b2-4637-a791-78b4024d9d6d</subcontent>
+            <timecreated>1649893620</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which of the following benefits can result from building mutually beneficial partnerships with employers?
+</description>
+            <correctpattern>["3[,]1[,]2[,]0"]</correctpattern>
+            <response>3[,]1[,]2[,]0</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"Hiring needs\n"}},{"id":"1","description":{"en-US":"Career awareness activities\n"}},{"id":"2","description":{"en-US":"Work-based learning opportunities\n"}},{"id":"0","description":{"en-US":"Workplace relevant curriculum\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"01d53c38-f8b2-4637-a791-78b4024d9d6d"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>71</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="86">
+            <attemptid>13</attemptid>
+            <subcontent>6487e6c7-8af7-4648-b088-4a7c953828d2</subcontent>
+            <timecreated>1649893620</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>In the video on the Future of Work, which of the elements below were highlighted?
+</description>
+            <correctpattern>["2[,]0"]</correctpattern>
+            <response>0[,]2</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Adult education has an important role in developing students\u2019 basic skills, workforce preparation, and growth mindset. \n"}},{"id":"1","description":{"en-US":"The acceleration of different skills and competencies means partnerships with employers are optional. \n"}},{"id":"0","description":{"en-US":"Automation and Artificial Intelligence (AI) are impacting every sector in the economy, from agriculture to construction.\n"}},{"id":"3","description":{"en-US":"Adult career pathways will not be relevant in the future of work \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"6487e6c7-8af7-4648-b088-4a7c953828d2"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>53</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="87">
+            <attemptid>13</attemptid>
+            <subcontent>45868381-6957-4418-b238-0683edda7acb</subcontent>
+            <timecreated>1649893620</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The following partnership strategies were common across the four exemplary models (Tyson, Kansas, PluggedInVA, District 1199C Training &amp; Upgrading Fund):
+(Check all that apply): 
+</description>
+            <correctpattern>["3[,]0[,]1[,]2"]</correctpattern>
+            <response>3[,]0[,]1[,]2</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"\nBoth students and employers at the center of each and every pathways model \n\n"}},{"id":"0","description":{"en-US":"Incentives for employers to engage \n"}},{"id":"1","description":{"en-US":"Clear working relationships between employers, higher education partners, and adult education \n"}},{"id":"2","description":{"en-US":"Public\u2013private financial support for students to earn industry-recognized credentials \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"45868381-6957-4418-b238-0683edda7acb"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>42</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="18">
+        <h5pactivityid>4</h5pactivityid>
+        <userid>26887</userid>
+        <timecreated>1650151785</timecreated>
+        <timemodified>1650151785</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>21</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="104">
+            <attemptid>18</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650151785</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>21</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="105">
+            <attemptid>18</attemptid>
+            <subcontent>01d53c38-f8b2-4637-a791-78b4024d9d6d</subcontent>
+            <timecreated>1650151785</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which of the following benefits can result from building mutually beneficial partnerships with employers?
+</description>
+            <correctpattern>["3[,]2[,]0[,]1"]</correctpattern>
+            <response>3[,]2[,]0[,]1</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"Hiring needs\n"}},{"id":"2","description":{"en-US":"Work-based learning opportunities\n"}},{"id":"0","description":{"en-US":"Workplace relevant curriculum\n"}},{"id":"1","description":{"en-US":"Career awareness activities\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"01d53c38-f8b2-4637-a791-78b4024d9d6d"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>20</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="106">
+            <attemptid>18</attemptid>
+            <subcontent>6487e6c7-8af7-4648-b088-4a7c953828d2</subcontent>
+            <timecreated>1650151785</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>In the video on the Future of Work, which of the elements below were highlighted?
+</description>
+            <correctpattern>["0[,]2"]</correctpattern>
+            <response>0[,]2</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Automation and Artificial Intelligence (AI) are impacting every sector in the economy, from agriculture to construction.\n"}},{"id":"3","description":{"en-US":"Adult career pathways will not be relevant in the future of work \n"}},{"id":"2","description":{"en-US":"Adult education has an important role in developing students\u2019 basic skills, workforce preparation, and growth mindset. \n"}},{"id":"1","description":{"en-US":"The acceleration of different skills and competencies means partnerships with employers are optional. \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"6487e6c7-8af7-4648-b088-4a7c953828d2"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>11</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="107">
+            <attemptid>18</attemptid>
+            <subcontent>45868381-6957-4418-b238-0683edda7acb</subcontent>
+            <timecreated>1650151785</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The following partnership strategies were common across the four exemplary models (Tyson, Kansas, PluggedInVA, District 1199C Training &amp; Upgrading Fund):
+(Check all that apply): 
+</description>
+            <correctpattern>["1[,]3[,]2[,]0"]</correctpattern>
+            <response>1[,]3[,]2[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Clear working relationships between employers, higher education partners, and adult education \n"}},{"id":"3","description":{"en-US":"\nBoth students and employers at the center of each and every pathways model \n\n"}},{"id":"2","description":{"en-US":"Public\u2013private financial support for students to earn industry-recognized credentials \n"}},{"id":"0","description":{"en-US":"Incentives for employers to engage \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"45868381-6957-4418-b238-0683edda7acb"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>5</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="51">
+        <h5pactivityid>4</h5pactivityid>
+        <userid>28238</userid>
+        <timecreated>1651074348</timecreated>
+        <timemodified>1651074348</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>146</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="302">
+            <attemptid>51</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1651074348</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>146</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="303">
+            <attemptid>51</attemptid>
+            <subcontent>01d53c38-f8b2-4637-a791-78b4024d9d6d</subcontent>
+            <timecreated>1651074348</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which of the following benefits can result from building mutually beneficial partnerships with employers?
+</description>
+            <correctpattern>["0[,]2[,]1[,]3"]</correctpattern>
+            <response>0[,]2[,]1[,]3</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Workplace relevant curriculum\n"}},{"id":"2","description":{"en-US":"Work-based learning opportunities\n"}},{"id":"1","description":{"en-US":"Career awareness activities\n"}},{"id":"3","description":{"en-US":"Hiring needs\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"01d53c38-f8b2-4637-a791-78b4024d9d6d"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>146</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="304">
+            <attemptid>51</attemptid>
+            <subcontent>6487e6c7-8af7-4648-b088-4a7c953828d2</subcontent>
+            <timecreated>1651074348</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>In the video on the Future of Work, which of the elements below were highlighted?
+</description>
+            <correctpattern>["0[,]2"]</correctpattern>
+            <response>2[,]0</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Automation and Artificial Intelligence (AI) are impacting every sector in the economy, from agriculture to construction.\n"}},{"id":"3","description":{"en-US":"Adult career pathways will not be relevant in the future of work \n"}},{"id":"2","description":{"en-US":"Adult education has an important role in developing students\u2019 basic skills, workforce preparation, and growth mindset. \n"}},{"id":"1","description":{"en-US":"The acceleration of different skills and competencies means partnerships with employers are optional. \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"6487e6c7-8af7-4648-b088-4a7c953828d2"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>128</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="305">
+            <attemptid>51</attemptid>
+            <subcontent>45868381-6957-4418-b238-0683edda7acb</subcontent>
+            <timecreated>1651074348</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The following partnership strategies were common across the four exemplary models (Tyson, Kansas, PluggedInVA, District 1199C Training &amp; Upgrading Fund):
+(Check all that apply): 
+</description>
+            <correctpattern>["0[,]2[,]1[,]3"]</correctpattern>
+            <response>0[,]2[,]1[,]3</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Incentives for employers to engage \n"}},{"id":"2","description":{"en-US":"Public\u2013private financial support for students to earn industry-recognized credentials \n"}},{"id":"1","description":{"en-US":"Clear working relationships between employers, higher education partners, and adult education \n"}},{"id":"3","description":{"en-US":"\nBoth students and employers at the center of each and every pathways model \n\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"45868381-6957-4418-b238-0683edda7acb"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>48</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="79">
+        <h5pactivityid>4</h5pactivityid>
+        <userid>28288</userid>
+        <timecreated>1651863743</timecreated>
+        <timemodified>1651863743</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>108</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="473">
+            <attemptid>79</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1651863743</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>108</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="474">
+            <attemptid>79</attemptid>
+            <subcontent>01d53c38-f8b2-4637-a791-78b4024d9d6d</subcontent>
+            <timecreated>1651863743</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which of the following benefits can result from building mutually beneficial partnerships with employers?
+</description>
+            <correctpattern>["1[,]3[,]0[,]2"]</correctpattern>
+            <response>1[,]3[,]0[,]2</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Career awareness activities\n"}},{"id":"3","description":{"en-US":"Hiring needs\n"}},{"id":"0","description":{"en-US":"Workplace relevant curriculum\n"}},{"id":"2","description":{"en-US":"Work-based learning opportunities\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"01d53c38-f8b2-4637-a791-78b4024d9d6d"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>108</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="475">
+            <attemptid>79</attemptid>
+            <subcontent>6487e6c7-8af7-4648-b088-4a7c953828d2</subcontent>
+            <timecreated>1651863743</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>In the video on the Future of Work, which of the elements below were highlighted?
+</description>
+            <correctpattern>["2[,]0"]</correctpattern>
+            <response>2[,]0</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"Adult career pathways will not be relevant in the future of work \n"}},{"id":"1","description":{"en-US":"The acceleration of different skills and competencies means partnerships with employers are optional. \n"}},{"id":"2","description":{"en-US":"Adult education has an important role in developing students\u2019 basic skills, workforce preparation, and growth mindset. \n"}},{"id":"0","description":{"en-US":"Automation and Artificial Intelligence (AI) are impacting every sector in the economy, from agriculture to construction.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"6487e6c7-8af7-4648-b088-4a7c953828d2"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>84</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="476">
+            <attemptid>79</attemptid>
+            <subcontent>45868381-6957-4418-b238-0683edda7acb</subcontent>
+            <timecreated>1651863743</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The following partnership strategies were common across the four exemplary models (Tyson, Kansas, PluggedInVA, District 1199C Training &amp; Upgrading Fund):
+(Check all that apply): 
+</description>
+            <correctpattern>["1[,]2[,]3[,]0"]</correctpattern>
+            <response>1[,]2[,]3[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Clear working relationships between employers, higher education partners, and adult education \n"}},{"id":"2","description":{"en-US":"Public\u2013private financial support for students to earn industry-recognized credentials \n"}},{"id":"3","description":{"en-US":"\nBoth students and employers at the center of each and every pathways model \n\n"}},{"id":"0","description":{"en-US":"Incentives for employers to engage \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"45868381-6957-4418-b238-0683edda7acb"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>68</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="81">
+        <h5pactivityid>4</h5pactivityid>
+        <userid>27818</userid>
+        <timecreated>1651956195</timecreated>
+        <timemodified>1651956195</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>117</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="481">
+            <attemptid>81</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1651956195</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>117</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="482">
+            <attemptid>81</attemptid>
+            <subcontent>01d53c38-f8b2-4637-a791-78b4024d9d6d</subcontent>
+            <timecreated>1651956195</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which of the following benefits can result from building mutually beneficial partnerships with employers?
+</description>
+            <correctpattern>["2[,]3[,]0[,]1"]</correctpattern>
+            <response>2[,]3[,]0[,]1</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Work-based learning opportunities\n"}},{"id":"3","description":{"en-US":"Hiring needs\n"}},{"id":"0","description":{"en-US":"Workplace relevant curriculum\n"}},{"id":"1","description":{"en-US":"Career awareness activities\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"01d53c38-f8b2-4637-a791-78b4024d9d6d"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>117</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="483">
+            <attemptid>81</attemptid>
+            <subcontent>6487e6c7-8af7-4648-b088-4a7c953828d2</subcontent>
+            <timecreated>1651956195</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>In the video on the Future of Work, which of the elements below were highlighted?
+</description>
+            <correctpattern>["0[,]2"]</correctpattern>
+            <response>2[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"The acceleration of different skills and competencies means partnerships with employers are optional. \n"}},{"id":"3","description":{"en-US":"Adult career pathways will not be relevant in the future of work \n"}},{"id":"0","description":{"en-US":"Automation and Artificial Intelligence (AI) are impacting every sector in the economy, from agriculture to construction.\n"}},{"id":"2","description":{"en-US":"Adult education has an important role in developing students\u2019 basic skills, workforce preparation, and growth mindset. \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"6487e6c7-8af7-4648-b088-4a7c953828d2"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>64</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="484">
+            <attemptid>81</attemptid>
+            <subcontent>45868381-6957-4418-b238-0683edda7acb</subcontent>
+            <timecreated>1651956195</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The following partnership strategies were common across the four exemplary models (Tyson, Kansas, PluggedInVA, District 1199C Training &amp; Upgrading Fund):
+(Check all that apply): 
+</description>
+            <correctpattern>["3[,]2[,]0[,]1"]</correctpattern>
+            <response>3[,]2[,]0[,]1</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"\nBoth students and employers at the center of each and every pathways model \n\n"}},{"id":"2","description":{"en-US":"Public\u2013private financial support for students to earn industry-recognized credentials \n"}},{"id":"0","description":{"en-US":"Incentives for employers to engage \n"}},{"id":"1","description":{"en-US":"Clear working relationships between employers, higher education partners, and adult education \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"45868381-6957-4418-b238-0683edda7acb"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>22</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="83">
+        <h5pactivityid>4</h5pactivityid>
+        <userid>28311</userid>
+        <timecreated>1652120790</timecreated>
+        <timemodified>1652120790</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>60</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="489">
+            <attemptid>83</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652120790</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>60</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="490">
+            <attemptid>83</attemptid>
+            <subcontent>01d53c38-f8b2-4637-a791-78b4024d9d6d</subcontent>
+            <timecreated>1652120790</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which of the following benefits can result from building mutually beneficial partnerships with employers?
+</description>
+            <correctpattern>["0[,]3[,]1[,]2"]</correctpattern>
+            <response>0[,]3[,]1[,]2</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Workplace relevant curriculum\n"}},{"id":"3","description":{"en-US":"Hiring needs\n"}},{"id":"1","description":{"en-US":"Career awareness activities\n"}},{"id":"2","description":{"en-US":"Work-based learning opportunities\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"01d53c38-f8b2-4637-a791-78b4024d9d6d"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>60</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="491">
+            <attemptid>83</attemptid>
+            <subcontent>6487e6c7-8af7-4648-b088-4a7c953828d2</subcontent>
+            <timecreated>1652120790</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>In the video on the Future of Work, which of the elements below were highlighted?
+</description>
+            <correctpattern>["0[,]2"]</correctpattern>
+            <response>0[,]2</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Automation and Artificial Intelligence (AI) are impacting every sector in the economy, from agriculture to construction.\n"}},{"id":"1","description":{"en-US":"The acceleration of different skills and competencies means partnerships with employers are optional. \n"}},{"id":"3","description":{"en-US":"Adult career pathways will not be relevant in the future of work \n"}},{"id":"2","description":{"en-US":"Adult education has an important role in developing students\u2019 basic skills, workforce preparation, and growth mindset. \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"6487e6c7-8af7-4648-b088-4a7c953828d2"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>42</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="492">
+            <attemptid>83</attemptid>
+            <subcontent>45868381-6957-4418-b238-0683edda7acb</subcontent>
+            <timecreated>1652120790</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The following partnership strategies were common across the four exemplary models (Tyson, Kansas, PluggedInVA, District 1199C Training &amp; Upgrading Fund):
+(Check all that apply): 
+</description>
+            <correctpattern>["0[,]3[,]1[,]2"]</correctpattern>
+            <response>0[,]3[,]1[,]2</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Incentives for employers to engage \n"}},{"id":"3","description":{"en-US":"\nBoth students and employers at the center of each and every pathways model \n\n"}},{"id":"1","description":{"en-US":"Clear working relationships between employers, higher education partners, and adult education \n"}},{"id":"2","description":{"en-US":"Public\u2013private financial support for students to earn industry-recognized credentials \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"45868381-6957-4418-b238-0683edda7acb"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>18</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="96">
+        <h5pactivityid>4</h5pactivityid>
+        <userid>474</userid>
+        <timecreated>1652204911</timecreated>
+        <timemodified>1652204911</timemodified>
+        <attempt>1</attempt>
+        <rawscore>2</rawscore>
+        <maxscore>3</maxscore>
+        <duration>40</duration>
+        <completion>1</completion>
+        <success>0</success>
+        <scaled>0.66667</scaled>
+        <results>
+          <result id="560">
+            <attemptid>96</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652204911</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5},"contextExtensions":{}}</additionals>
+            <rawscore>2</rawscore>
+            <maxscore>3</maxscore>
+            <duration>40</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="561">
+            <attemptid>96</attemptid>
+            <subcontent>01d53c38-f8b2-4637-a791-78b4024d9d6d</subcontent>
+            <timecreated>1652204911</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which of the following benefits can result from building mutually beneficial partnerships with employers?
+</description>
+            <correctpattern>["2[,]3[,]0[,]1"]</correctpattern>
+            <response>2[,]3[,]0[,]1</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Work-based learning opportunities\n"}},{"id":"3","description":{"en-US":"Hiring needs\n"}},{"id":"0","description":{"en-US":"Workplace relevant curriculum\n"}},{"id":"1","description":{"en-US":"Career awareness activities\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"01d53c38-f8b2-4637-a791-78b4024d9d6d"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>40</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="562">
+            <attemptid>96</attemptid>
+            <subcontent>6487e6c7-8af7-4648-b088-4a7c953828d2</subcontent>
+            <timecreated>1652204911</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>In the video on the Future of Work, which of the elements below were highlighted?
+</description>
+            <correctpattern>["0[,]2"]</correctpattern>
+            <response>0[,]1[,]2</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Automation and Artificial Intelligence (AI) are impacting every sector in the economy, from agriculture to construction.\n"}},{"id":"2","description":{"en-US":"Adult education has an important role in developing students\u2019 basic skills, workforce preparation, and growth mindset. \n"}},{"id":"1","description":{"en-US":"The acceleration of different skills and competencies means partnerships with employers are optional. \n"}},{"id":"3","description":{"en-US":"Adult career pathways will not be relevant in the future of work \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"6487e6c7-8af7-4648-b088-4a7c953828d2"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>28</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="563">
+            <attemptid>96</attemptid>
+            <subcontent>45868381-6957-4418-b238-0683edda7acb</subcontent>
+            <timecreated>1652204911</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The following partnership strategies were common across the four exemplary models (Tyson, Kansas, PluggedInVA, District 1199C Training &amp; Upgrading Fund):
+(Check all that apply): 
+</description>
+            <correctpattern>["1[,]0[,]2[,]3"]</correctpattern>
+            <response>1[,]0[,]2[,]3</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Clear working relationships between employers, higher education partners, and adult education \n"}},{"id":"0","description":{"en-US":"Incentives for employers to engage \n"}},{"id":"2","description":{"en-US":"Public\u2013private financial support for students to earn industry-recognized credentials \n"}},{"id":"3","description":{"en-US":"\nBoth students and employers at the center of each and every pathways model \n\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"45868381-6957-4418-b238-0683edda7acb"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>16</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="136">
+        <h5pactivityid>4</h5pactivityid>
+        <userid>26631</userid>
+        <timecreated>1652717483</timecreated>
+        <timemodified>1652717483</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>124</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="769">
+            <attemptid>136</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652717483</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>124</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="770">
+            <attemptid>136</attemptid>
+            <subcontent>01d53c38-f8b2-4637-a791-78b4024d9d6d</subcontent>
+            <timecreated>1652717483</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which of the following benefits can result from building mutually beneficial partnerships with employers?
+</description>
+            <correctpattern>["1[,]3[,]2[,]0"]</correctpattern>
+            <response>1[,]3[,]2[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Career awareness activities\n"}},{"id":"3","description":{"en-US":"Hiring needs\n"}},{"id":"2","description":{"en-US":"Work-based learning opportunities\n"}},{"id":"0","description":{"en-US":"Workplace relevant curriculum\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"01d53c38-f8b2-4637-a791-78b4024d9d6d"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>124</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="771">
+            <attemptid>136</attemptid>
+            <subcontent>6487e6c7-8af7-4648-b088-4a7c953828d2</subcontent>
+            <timecreated>1652717483</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>In the video on the Future of Work, which of the elements below were highlighted?
+</description>
+            <correctpattern>["0[,]2"]</correctpattern>
+            <response>0[,]2</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"Adult career pathways will not be relevant in the future of work \n"}},{"id":"0","description":{"en-US":"Automation and Artificial Intelligence (AI) are impacting every sector in the economy, from agriculture to construction.\n"}},{"id":"1","description":{"en-US":"The acceleration of different skills and competencies means partnerships with employers are optional. \n"}},{"id":"2","description":{"en-US":"Adult education has an important role in developing students\u2019 basic skills, workforce preparation, and growth mindset. \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"6487e6c7-8af7-4648-b088-4a7c953828d2"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>109</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="772">
+            <attemptid>136</attemptid>
+            <subcontent>45868381-6957-4418-b238-0683edda7acb</subcontent>
+            <timecreated>1652717483</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The following partnership strategies were common across the four exemplary models (Tyson, Kansas, PluggedInVA, District 1199C Training &amp; Upgrading Fund):
+(Check all that apply): 
+</description>
+            <correctpattern>["1[,]2[,]0[,]3"]</correctpattern>
+            <response>1[,]2[,]0[,]3</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Clear working relationships between employers, higher education partners, and adult education \n"}},{"id":"2","description":{"en-US":"Public\u2013private financial support for students to earn industry-recognized credentials \n"}},{"id":"0","description":{"en-US":"Incentives for employers to engage \n"}},{"id":"3","description":{"en-US":"\nBoth students and employers at the center of each and every pathways model \n\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"45868381-6957-4418-b238-0683edda7acb"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>50</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="139">
+        <h5pactivityid>4</h5pactivityid>
+        <userid>27818</userid>
+        <timecreated>1652728198</timecreated>
+        <timemodified>1652728198</timemodified>
+        <attempt>2</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>83</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="781">
+            <attemptid>139</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652728198</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>83</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="782">
+            <attemptid>139</attemptid>
+            <subcontent>01d53c38-f8b2-4637-a791-78b4024d9d6d</subcontent>
+            <timecreated>1652728198</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which of the following benefits can result from building mutually beneficial partnerships with employers?
+</description>
+            <correctpattern>["1[,]0[,]3[,]2"]</correctpattern>
+            <response>1[,]0[,]3[,]2</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Career awareness activities\n"}},{"id":"0","description":{"en-US":"Workplace relevant curriculum\n"}},{"id":"3","description":{"en-US":"Hiring needs\n"}},{"id":"2","description":{"en-US":"Work-based learning opportunities\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"01d53c38-f8b2-4637-a791-78b4024d9d6d"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>83</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="783">
+            <attemptid>139</attemptid>
+            <subcontent>6487e6c7-8af7-4648-b088-4a7c953828d2</subcontent>
+            <timecreated>1652728198</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>In the video on the Future of Work, which of the elements below were highlighted?
+</description>
+            <correctpattern>["0[,]2"]</correctpattern>
+            <response>2[,]0</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Automation and Artificial Intelligence (AI) are impacting every sector in the economy, from agriculture to construction.\n"}},{"id":"3","description":{"en-US":"Adult career pathways will not be relevant in the future of work \n"}},{"id":"2","description":{"en-US":"Adult education has an important role in developing students\u2019 basic skills, workforce preparation, and growth mindset. \n"}},{"id":"1","description":{"en-US":"The acceleration of different skills and competencies means partnerships with employers are optional. \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"6487e6c7-8af7-4648-b088-4a7c953828d2"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>69</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="784">
+            <attemptid>139</attemptid>
+            <subcontent>45868381-6957-4418-b238-0683edda7acb</subcontent>
+            <timecreated>1652728198</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The following partnership strategies were common across the four exemplary models (Tyson, Kansas, PluggedInVA, District 1199C Training &amp; Upgrading Fund):
+(Check all that apply): 
+</description>
+            <correctpattern>["0[,]3[,]1[,]2"]</correctpattern>
+            <response>3[,]1[,]2[,]0</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Incentives for employers to engage \n"}},{"id":"3","description":{"en-US":"\nBoth students and employers at the center of each and every pathways model \n\n"}},{"id":"1","description":{"en-US":"Clear working relationships between employers, higher education partners, and adult education \n"}},{"id":"2","description":{"en-US":"Public\u2013private financial support for students to earn industry-recognized credentials \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"45868381-6957-4418-b238-0683edda7acb"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>20</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="152">
+        <h5pactivityid>4</h5pactivityid>
+        <userid>28338</userid>
+        <timecreated>1652838864</timecreated>
+        <timemodified>1652838864</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>146</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="854">
+            <attemptid>152</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652838864</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>146</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="855">
+            <attemptid>152</attemptid>
+            <subcontent>01d53c38-f8b2-4637-a791-78b4024d9d6d</subcontent>
+            <timecreated>1652838864</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which of the following benefits can result from building mutually beneficial partnerships with employers?
+</description>
+            <correctpattern>["3[,]1[,]2[,]0"]</correctpattern>
+            <response>3[,]1[,]2[,]0</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"Hiring needs\n"}},{"id":"1","description":{"en-US":"Career awareness activities\n"}},{"id":"2","description":{"en-US":"Work-based learning opportunities\n"}},{"id":"0","description":{"en-US":"Workplace relevant curriculum\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"01d53c38-f8b2-4637-a791-78b4024d9d6d"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>146</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="856">
+            <attemptid>152</attemptid>
+            <subcontent>6487e6c7-8af7-4648-b088-4a7c953828d2</subcontent>
+            <timecreated>1652838864</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>In the video on the Future of Work, which of the elements below were highlighted?
+</description>
+            <correctpattern>["2[,]0"]</correctpattern>
+            <response>2[,]0</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Adult education has an important role in developing students\u2019 basic skills, workforce preparation, and growth mindset. \n"}},{"id":"1","description":{"en-US":"The acceleration of different skills and competencies means partnerships with employers are optional. \n"}},{"id":"3","description":{"en-US":"Adult career pathways will not be relevant in the future of work \n"}},{"id":"0","description":{"en-US":"Automation and Artificial Intelligence (AI) are impacting every sector in the economy, from agriculture to construction.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"6487e6c7-8af7-4648-b088-4a7c953828d2"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>89</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="857">
+            <attemptid>152</attemptid>
+            <subcontent>45868381-6957-4418-b238-0683edda7acb</subcontent>
+            <timecreated>1652838864</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The following partnership strategies were common across the four exemplary models (Tyson, Kansas, PluggedInVA, District 1199C Training &amp; Upgrading Fund):
+(Check all that apply): 
+</description>
+            <correctpattern>["2[,]3[,]1[,]0"]</correctpattern>
+            <response>2[,]3[,]1[,]0</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Public\u2013private financial support for students to earn industry-recognized credentials \n"}},{"id":"3","description":{"en-US":"\nBoth students and employers at the center of each and every pathways model \n\n"}},{"id":"1","description":{"en-US":"Clear working relationships between employers, higher education partners, and adult education \n"}},{"id":"0","description":{"en-US":"Incentives for employers to engage \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"45868381-6957-4418-b238-0683edda7acb"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>40</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="159">
+        <h5pactivityid>4</h5pactivityid>
+        <userid>28400</userid>
+        <timecreated>1652893317</timecreated>
+        <timemodified>1652893317</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>100</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="910">
+            <attemptid>159</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652893317</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>100</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="911">
+            <attemptid>159</attemptid>
+            <subcontent>01d53c38-f8b2-4637-a791-78b4024d9d6d</subcontent>
+            <timecreated>1652893317</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which of the following benefits can result from building mutually beneficial partnerships with employers?
+</description>
+            <correctpattern>["0[,]1[,]3[,]2"]</correctpattern>
+            <response>3[,]0[,]1[,]2</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Workplace relevant curriculum\n"}},{"id":"1","description":{"en-US":"Career awareness activities\n"}},{"id":"3","description":{"en-US":"Hiring needs\n"}},{"id":"2","description":{"en-US":"Work-based learning opportunities\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"01d53c38-f8b2-4637-a791-78b4024d9d6d"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>100</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="912">
+            <attemptid>159</attemptid>
+            <subcontent>6487e6c7-8af7-4648-b088-4a7c953828d2</subcontent>
+            <timecreated>1652893317</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>In the video on the Future of Work, which of the elements below were highlighted?
+</description>
+            <correctpattern>["2[,]0"]</correctpattern>
+            <response>2[,]0</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"Adult career pathways will not be relevant in the future of work \n"}},{"id":"2","description":{"en-US":"Adult education has an important role in developing students\u2019 basic skills, workforce preparation, and growth mindset. \n"}},{"id":"1","description":{"en-US":"The acceleration of different skills and competencies means partnerships with employers are optional. \n"}},{"id":"0","description":{"en-US":"Automation and Artificial Intelligence (AI) are impacting every sector in the economy, from agriculture to construction.\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"6487e6c7-8af7-4648-b088-4a7c953828d2"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>48</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="913">
+            <attemptid>159</attemptid>
+            <subcontent>45868381-6957-4418-b238-0683edda7acb</subcontent>
+            <timecreated>1652893317</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>The following partnership strategies were common across the four exemplary models (Tyson, Kansas, PluggedInVA, District 1199C Training &amp; Upgrading Fund):
+(Check all that apply): 
+</description>
+            <correctpattern>["2[,]0[,]3[,]1"]</correctpattern>
+            <response>0[,]3[,]1[,]2</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Public\u2013private financial support for students to earn industry-recognized credentials \n"}},{"id":"0","description":{"en-US":"Incentives for employers to engage \n"}},{"id":"3","description":{"en-US":"\nBoth students and employers at the center of each and every pathways model \n\n"}},{"id":"1","description":{"en-US":"Clear working relationships between employers, higher education partners, and adult education \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":5,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"45868381-6957-4418-b238-0683edda7acb"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>27</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+    </attempts>
+  </h5pactivity>
+</activity>

@@ -1,0 +1,160 @@
+{
+  "version": "3.60.26947.0",
+  "course_id": "6JZuYmmKsI9_course_id",
+  "title": "Course 2 Scenario (Handout 6)",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Background"
+    },
+    {
+      "title": "Scene 1"
+    },
+    {
+      "title": "Scene 2"
+    },
+    {
+      "title": "Scene 3"
+    },
+    {
+      "title": "Reflection"
+    },
+    {
+      "title": "Background"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6do4kfF08sW",
+      "title": "Building Strategic Partnerships With a Value Proposition ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5fTMBXUpzjW",
+      "title": "How to Use this Scenario",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6DvmOqefenz",
+      "title": "Background",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5jAljn2w6HI",
+      "title": "Background",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6ZFDJWAlxE4",
+      "title": "Decision Point 1",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6izCRqeO1nN",
+      "title": "Decision Point 1",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6kvKntOe6yX",
+      "title": "Scene 1 - Answer 1",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "5u4t4qkXG6S",
+      "title": "Scene 1 - Answer 2",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "5q6kJhF1K7c",
+      "title": "Scene 1 - Answer 3",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "5VIhfNPs1v2",
+      "title": "Decision Point 2",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "5s7j8KGBcja",
+      "title": "Decision Point 2",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "5YyDuBPWvtR",
+      "title": "Scene 2 - Answer 1",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6DCDfutzBgu",
+      "title": "Scene 2 - Answer 3",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "613i5RV60Vd",
+      "title": "Scene 2 - Answer 2",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "6FthpuK6TBs",
+      "title": "Decision Point 3",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "6YVjkTlIrsJ",
+      "title": "Decision Point 3",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "6pnj0z8rsxo",
+      "title": "Scene 2 - Answer 1",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "5rH7RbjJeRL",
+      "title": "Scene 2 - Answer 2",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "62JdgePE8RB",
+      "title": "Scene 2 - Answer 3",
+      "scene_index": "5.5"
+    },
+    {
+      "id": "6OBVVg0XS2O",
+      "title": "Questions for Reflection ",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "60Ny5WbPa6Q",
+      "title": "Questions for Reflection and Discussion Part 1 of 2",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "6hPDfG9JRIR",
+      "title": "Questions for Reflection and Discussion Part 2 of 2",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "5w9WkJHCb9C",
+      "title": "Congratulations",
+      "scene_index": "6.4"
+    },
+    {
+      "id": "6MHI7P9dL7i",
+      "title": "Background",
+      "scene_index": "7.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

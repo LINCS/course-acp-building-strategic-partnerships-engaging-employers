@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+      <logstore_standard_log id="9004536">
+        <eventname>\core\event\course_module_updated</eventname>
+        <component>core</component>
+        <action>updated</action>
+        <target>course_module</target>
+        <objecttable>course_modules</objecttable>
+        <objectid>8971</objectid>
+        <crud>u</crud>
+        <edulevel>1</edulevel>
+        <contextid>57205</contextid>
+        <userid>26685</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>YTozOntzOjEwOiJtb2R1bGVuYW1lIjtzOjU6ImxhYmVsIjtzOjEwOiJpbnN0YW5jZWlkIjtzOjQ6IjIwMDciO3M6NDoibmFtZSI7czo1MzoiDQoNCiAgICANCg0KICAgIA0KICAgICAgICANCiAgICANCiAgICANCg0KDQoNCg0KDQouLi4iO30=</other>
+        <timecreated>1649109922</timecreated>
+        <ip>69.24.120.201</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>

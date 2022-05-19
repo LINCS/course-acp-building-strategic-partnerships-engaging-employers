@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="222" moduleid="8987" modulename="certificate" contextid="57221">
+  <certificate id="222">
+    <name>Course Completion Certificate</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;Congratulations! You have successfully completed &lt;i&gt;Building Strategic Partnerships: Engaging Employers&lt;/i&gt;!&lt;/p&gt;
+&lt;p&gt;Upon successful completion of both quizzes, you may generate a certificate of course completion.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>0</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>lincs</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>0</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>2</printdate>
+    <datefmt>1</datefmt>
+    <printnumber>0</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours>3</printhours>
+    <printteacher>0</printteacher>
+    <customtext></customtext>
+    <printsignature>Cheryl-Keenan.png</printsignature>
+    <printseal>LINCS-Logo-Color-small.png</printseal>
+    <timecreated>1654547495</timecreated>
+    <timemodified>1691943972</timemodified>
+    <issues>
+      <issue id="34905">
+        <certificateid>222</certificateid>
+        <userid>26700</userid>
+        <timecreated>1649087669</timecreated>
+        <code>FLdMQhG5Gf</code>
+      </issue>
+      <issue id="34907">
+        <certificateid>222</certificateid>
+        <userid>12905</userid>
+        <timecreated>1649092418</timecreated>
+        <code>ZMUESxkzRS</code>
+      </issue>
+      <issue id="34977">
+        <certificateid>222</certificateid>
+        <userid>13418</userid>
+        <timecreated>1649893716</timecreated>
+        <code>ML5Br7M79K</code>
+      </issue>
+      <issue id="35000">
+        <certificateid>222</certificateid>
+        <userid>26887</userid>
+        <timecreated>1650151797</timecreated>
+        <code>7XpdFcBrnR</code>
+      </issue>
+      <issue id="35086">
+        <certificateid>222</certificateid>
+        <userid>28238</userid>
+        <timecreated>1651074359</timecreated>
+        <code>Ur8bTSPgjF</code>
+      </issue>
+      <issue id="35184">
+        <certificateid>222</certificateid>
+        <userid>28288</userid>
+        <timecreated>1651863875</timecreated>
+        <code>SPPu6A6wHs</code>
+      </issue>
+      <issue id="35191">
+        <certificateid>222</certificateid>
+        <userid>27818</userid>
+        <timecreated>1651956203</timecreated>
+        <code>e1fDNooyAj</code>
+      </issue>
+      <issue id="35205">
+        <certificateid>222</certificateid>
+        <userid>28311</userid>
+        <timecreated>1652120903</timecreated>
+        <code>TBBFDfj4KX</code>
+      </issue>
+      <issue id="35225">
+        <certificateid>222</certificateid>
+        <userid>474</userid>
+        <timecreated>1652204933</timecreated>
+        <code>796AbeUAaM</code>
+      </issue>
+      <issue id="35303">
+        <certificateid>222</certificateid>
+        <userid>26631</userid>
+        <timecreated>1652717493</timecreated>
+        <code>OmH43xm2nO</code>
+      </issue>
+      <issue id="35337">
+        <certificateid>222</certificateid>
+        <userid>28338</userid>
+        <timecreated>1652839320</timecreated>
+        <code>Fdl14AsthJ</code>
+      </issue>
+      <issue id="35343">
+        <certificateid>222</certificateid>
+        <userid>28400</userid>
+        <timecreated>1652893500</timecreated>
+        <code>EiWU0zzwyA</code>
+      </issue>
+    </issues>
+  </certificate>
+</activity>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2012" moduleid="8972" modulename="page" contextid="57206">
+  <page id="2012">
+    <name>Course Goals, Objectives, Description, Organization</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span&gt;&lt;em style=""&gt;Select to review the overview of what you'll learn in this course.&lt;/em&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;&lt;span style="font-size: 1.7rem;"&gt;&lt;strong&gt;Goals for this Course&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;&lt;ul type="disc"&gt;&lt;li&gt;Provide state and local adult education leaders with the framework, tools, and contextual strategies to build and expand partnerships, with an emphasis on employers.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;ul type="disc"&gt;
+        &lt;li&gt;Advance the design, delivery, and outcomes of adult career pathways by enhancing work-based learning and employment opportunities across the entire spectrum of adult career pathways programs.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;strong&gt;&lt;br&gt;
+Course Description&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;The purpose of the course is to equip adult education leaders with a modernized approach to building effective employer partnerships and thereby improve the design and delivery of adult career pathways programs.&lt;/p&gt;
+
+    &lt;p&gt;The introduction to the course begins by defining adult career pathways, describing what high-value partnerships look like, and examining engagement through an opportunity and equity lens.&lt;/p&gt;
+
+    &lt;p&gt;Using a “future of work” perspective will help state and local leaders formulate action plans and better understand the shifts in the economy driving the increasing need to form these partnerships.&lt;/p&gt;
+
+    &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Course
+Objectives&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Upon completion of this course, participants will be able to:&lt;/p&gt;
+
+    &lt;ul type="disc"&gt;
+        &lt;li&gt;&lt;strong&gt;Leverage&lt;/strong&gt;&amp;nbsp;areas of strength regarding employer and stakeholder engagement as a baseline to build the skills and competencies that are valued now and will be valued in the future and to advance more equitable adult career pathways;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;ul type="disc"&gt;
+        &lt;li&gt;&lt;strong&gt;Describe&lt;/strong&gt;&amp;nbsp;the interrelatedness of business, education, and training as a system in order to create partnership strategies to support adult career pathways and the success of students; and&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;ul type="disc"&gt;
+        &lt;li&gt;&lt;strong&gt;Implement&amp;nbsp;&lt;/strong&gt;the most important employer engagement strategies from this course and set of resources by starting to outline an&amp;nbsp;&lt;strong&gt;Employer and Stakeholder
+     Partnerships Action Plan&lt;/strong&gt;&amp;nbsp;containing concrete steps following the course.
+        &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Course
+Organization&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;There are five units in this course:&lt;/p&gt;
+
+    &lt;ol start="1" type="1"&gt;
+        &lt;li&gt;Realizing the Promise of Adult Career Pathways&lt;/li&gt;
+        &lt;li&gt;Initiating and Building an Ecosystem of Stakeholder Partnerships&lt;/li&gt;
+        &lt;li&gt;Building and Sustaining Employer Partnerships&lt;/li&gt;
+        &lt;li&gt;Leveraging Employer Partnerships to Advance Workforce Readiness&lt;/li&gt;
+        &lt;li&gt;Completing Capstone Activities and Concluding the Course&lt;/li&gt;
+    &lt;/ol&gt;
+
+    &lt;p&gt;The course is organized to include a glossary, core content,&amp;nbsp;learning checks, and links to resources. The course also contains handouts.&lt;/p&gt;
+
+    &lt;p&gt;To access each unit, please click on the plus sign ‘+’ to the right of the learning activities tab below.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1627924985</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="48" moduleid="8990" modulename="folder" contextid="57224">
+  <folder id="48">
+    <name>Handouts</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <revision>4</revision>
+    <timemodified>1647800200</timemodified>
+    <display>0</display>
+    <showexpanded>0</showexpanded>
+    <showdownloadfolder>1</showdownloadfolder>
+  </folder>
+</activity>

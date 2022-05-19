@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="264" contextid="57200">
+  <shortname>ACP Partnerships</shortname>
+  <fullname>ACP: Building Strategic Partnerships: Engaging Employers</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p data-renderer-start-pos="2306"&gt;&lt;strong data-renderer-mark="true"&gt;ACP:&amp;nbsp;Building Strategic Partnerships: Engaging Employers&lt;/strong&gt; (3 hours):&amp;nbsp; This course is the first in the series of three self-directed courses focusing on adult career pathways and is intended for multiple audiences:&lt;/p&gt;&lt;ol data-indent-level="1"&gt;&lt;li&gt;&lt;p data-renderer-start-pos="2522"&gt;State adult education directors,&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-renderer-start-pos="2558"&gt;State program managers,&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-renderer-start-pos="2585"&gt;State professional development staff,&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-renderer-start-pos="2626"&gt;Local and regional program administrators,&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-renderer-start-pos="2672"&gt;Career and technical education state directors; and&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-renderer-start-pos="2727"&gt;Adult education and English language acquisition instructors with an active interest in developing stakeholder and employer relationships for instructional enhancements and workforce preparation skill building or project- or work-based learning will also benefit from reviewing the content.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p data-renderer-start-pos="3021"&gt;While this course may be taken alone, the user may benefit from taking all three ACP courses.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1649113200</startdate>
+  <enddate>0</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme></theme>
+  <timecreated>1605054790</timecreated>
+  <timemodified>1649263077</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>3</numsections>
+  <hiddensections>0</hiddensections>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>1</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <toggleallenabled>2</toggleallenabled>
+  <viewsinglesectionenabled>2</viewsinglesectionenabled>
+  <togglealignment>2</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <onesection>1</onesection>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <toggleforegroundopacity>1.0</toggleforegroundopacity>
+  <toggleforegroundhovercolour>888888</toggleforegroundhovercolour>
+  <toggleforegroundhoveropacity>1.0</toggleforegroundhoveropacity>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundopacity>1.0</togglebackgroundopacity>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <togglebackgroundhoveropacity>1.0</togglebackgroundhoveropacity>
+  <showsectionsummary>1</showsectionsummary>
+  <showadditionalmoddata>0</showadditionalmoddata>
+  <category id="3">
+    <name>Career Pathways</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+</course>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2013" moduleid="8989" modulename="page" contextid="57223">
+  <page id="2013">
+    <name>Suggestions for Further Learning &amp; Course Reference List</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;&lt;em&gt;Other Courses in the LINCS ACP Series&lt;/em&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em style="color: #495057; font-size: 1.7rem; font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;"&gt;&lt;a href="$@COURSEVIEWBYID*265@$" target="_blank"&gt;&lt;span style="text-decoration: underline;"&gt;ACP: Building a Bridge to Adult Career Pathways&lt;/span&gt;&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em style="color: #495057; font-size: 1.7rem; font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;"&gt;&lt;a href="$@COURSEVIEWBYID*266@$" target="_blank"&gt;&lt;span style="text-decoration: underline;"&gt;ACP: Instructional Considerations for Adult Career Pathways&lt;/span&gt;&amp;nbsp;&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong style="font-size: 1.8rem;"&gt;&lt;em&gt;Additional Resources&lt;/em&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cccse.org/sites/default/files/CCCSE-OCCRL-IssueBrief-%231.pdf" target="_blank"&gt;Equity and Adult Career Pathways&lt;/a&gt;&amp;nbsp;(Office of Community College Research &amp;amp; Leadership)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.clasp.org/sites/default/files/publications/2018/10/2018.10.30%20Career%20Pathways%20Racial%20Equity%20.pdf" target="_blank"&gt;Advancing Racial Equity in Career Pathways&lt;/a&gt;&amp;nbsp;(Pham, 2018)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lincs.ed.gov/employers/" target="_blank"&gt;Tools for Building Employer-Educator Partnerships&lt;/a&gt;&amp;nbsp;(OCTAE, LINCS)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;CommQuest&lt;/em&gt;, a&amp;nbsp;&lt;a href="https://courses.nrsweb.org/course/view.php?id=54" target="_blank"&gt;National Reporting System (NRS) self-directed course&lt;/a&gt;&lt;span&gt;&amp;nbsp;(log-in required) (OCTAE, NRS)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;/strong&gt; &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong style="font-style: italic;"&gt;References&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Below is a list of references used in this course.&lt;br&gt;&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Bergson-Shilcock, A. (2020, May 20). &lt;i&gt;The new landscape of digital literacy&lt;/i&gt;. National Skills Coalition. &lt;a href="https://www.nationalskillscoalition.org/resource/publications/the-new-landscape-of-digital-literacy/" target="_blank"&gt;https://www.nationalskillscoalition.org/resource/publications/the-new-landscape-of-digital-literacy/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bragg, D., Endel, B., Anderson, N., Soricone, L., &amp;amp; Acevedo, E. (2019). &lt;i&gt;What works for adult learners: Lessons from career pathways evaluations.&lt;/i&gt; Jobs for the Future. &lt;a href="https://www.jff.org/resources/what-works-adult-learners-lessons-career-pathway-evaluations/" target="_blank"&gt;https://www.jff.org/resources/what-works-adult-learners-lessons-career-pathway-evaluations/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bureau of Labor Statistics. (2020, December). Employment recovery on the wake of the COVID-19 pandemic. &lt;a href="https://www.bls.gov/opub/mlr/2020/article/employment-recovery.htm" target="_blank"&gt;https://www.bls.gov/opub/mlr/2020/article/employment-recovery.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bureau of Labor Statistics. (2021, January 8). &lt;i&gt;The employment situation–December 2020.&lt;/i&gt; [News&amp;nbsp;release]. &lt;a href="https://www.bls.gov/news.release/archives/empsit_01082021.htm" target="_blank"&gt;https://www.bls.gov/news.release/archives/empsit_01082021.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Center for Occupational Research and Development, and Social Policy Research Associates (2021, January). &lt;i&gt;Introduction to stackable credentials&lt;/i&gt; (OCTAE Program Memorandum 21-1). U.S. Department of Education, Office of Career, Technical, and Adult Education. &lt;a href="https://s3.amazonaws.com/PCRN/file/introduction-to-stackable-credentials.pdf" target="_blank"&gt;https://s3.amazonaws.com/PCRN/file/introduction-to-stackable-credentials.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cotner, H., Bragg, D., Cheng, I., Costelloe, S., Freeman, B., Goold, G., Heiser, E., Lemire, S., Miller, D.G., Porowski, A., Van Noy, M., &amp;amp; Yadav, E. (2021). &lt;i&gt;Designing and delivering career pathways at community colleges: A practice guide for educators&lt;/i&gt; (WWC 2021007). U.S. Department of Education, Institute of Education Sciences. &lt;a href="https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC-PraxGuide-Career-Pathways-full-text-Final-508.pdf" target="_blank"&gt;https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/WWC-PraxGuide-Career-Pathways-full-text-Final-508.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name="_Hlk69815901"&gt;&lt;/a&gt;Dey, M., &amp;amp; Loewenstein, M. (2020, April). How many workers are employed in sectors directly affected by COVID-19 shutdowns, where do they work, and how much do they earn? &lt;em&gt;Monthly Labor Review.&lt;/em&gt; Bureau of Labor Statistics. &lt;a href="https://doi.org/10.21916/mlr.2020.6" target="_blank"&gt;https://doi.org/10.21916/mlr.2020.6&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Gallup &amp;amp; Lumina Foundation. (2014, February 25). &lt;i&gt;What American needs to know about higher education redesign: The 2013 Lumina Study of the American Public’s Opinion on Higher Education and U.S. Business Leaders Poll on Higher Education.&lt;/i&gt; Lumina Foundation. &lt;a href="http://www.luminafoundation.org/files/resources/2013-gallup-lumina-foundation-report.pdf" target="_blank"&gt;http://www.luminafoundation.org/files/resources/2013-gallup-lumina-foundation-report.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name="_Hlk69815912"&gt;&lt;/a&gt;Hess, J., &amp;amp; Burnett, J. (2018). &lt;i&gt;Systems building: Practical tools for cultivating partnership health.&lt;/i&gt; Presented at the Driving Change: Local Solutions to the National Attainment Challenge conference, Denver, CO.&lt;/p&gt;
+&lt;p&gt;Pham, D. (2018, October 30). &lt;i&gt;Advancing &lt;/i&gt;&lt;i&gt;racial&lt;/i&gt;&lt;i&gt; &lt;/i&gt;&lt;i&gt;equity&lt;/i&gt;&lt;i&gt; in &lt;/i&gt;&lt;i&gt;career&lt;/i&gt;&lt;i&gt; &lt;/i&gt;&lt;i&gt;pathways&lt;/i&gt;&lt;i&gt;: Community&lt;/i&gt;&lt;i&gt;-centered&lt;/i&gt;&lt;i&gt; solutions.&lt;/i&gt; Center for Law and Social Policy. &lt;a href="https://www.clasp.org/sites/default/files/publications/2018/10/2018.10.30%20Career%20Pathways%20Racial%20Equity%20.pdf" target="_blank"&gt;https://www.clasp.org/publications/report/brief/advancing-racial-equity-through-career-pathways-community-centered&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rothes, A., Lemos, M. S., &amp;amp; Goncalves, T. (2017). Motivational profiles of adult learners. &lt;i&gt;Adult Education Quarterly, 6&lt;/i&gt;(1), 3–29.&lt;/p&gt;
+&lt;p&gt;&lt;a name="_Hlk69815924"&gt;&lt;/a&gt;U.S. Department of Education. (2015). &lt;i&gt;Tools for building employer—Educator partnerships.&lt;/i&gt; LINCS: Literacy Information and Communication System. &lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-777" target="_blank"&gt;https://lincs.ed.gov/professional-development/resource-collections/profile-777&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Zamani-Gallaher, E. M. (2020). &lt;i&gt;Ensure students are learning: Equity-minded approaches to teaching and learning&lt;/i&gt; (Issue Brief No. 1). Office of Community College Research and Leadership at the University of Illinois. &lt;a href="https://cccse.org/sites/default/files/CCCSE-OCCRL-IssueBrief-%231.pdf" target="_blank"&gt;https://old.occrl.illinois.edu/docs/librariesprovider4/ec3p/cccse-occrl-issuebrief-1-final-7_3_20.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>14</revision>
+    <timemodified>1649189106</timemodified>
+  </page>
+</activity>

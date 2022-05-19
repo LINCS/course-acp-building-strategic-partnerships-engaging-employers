@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logstores>
+  <logstore>
+    <subplugin_logstore_database_logstore>
+    </subplugin_logstore_database_logstore>
+    <subplugin_logstore_standard_logstore>
+      <logstore_standard_log id="9000148">
+        <eventname>\mod_folder\event\course_module_viewed</eventname>
+        <component>mod_folder</component>
+        <action>viewed</action>
+        <target>course_module</target>
+        <objecttable>folder</objecttable>
+        <objectid>48</objectid>
+        <crud>r</crud>
+        <edulevel>2</edulevel>
+        <contextid>57224</contextid>
+        <userid>12905</userid>
+        <relateduserid>$@NULL@$</relateduserid>
+        <anonymous>0</anonymous>
+        <other>Tjs=</other>
+        <timecreated>1649090667</timecreated>
+        <ip>98.166.1.110</ip>
+        <realuserid>$@NULL@$</realuserid>
+      </logstore_standard_log>
+    </subplugin_logstore_standard_logstore>
+  </logstore>
+</logstores>
